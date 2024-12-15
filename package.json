@@ -1,0 +1,17 @@
+{
+  "name": "calenderassignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test-script": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.2",
+    "typescript": "^5.7.2"
+  }
+}
